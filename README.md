@@ -1,6 +1,8 @@
 # C_Study
 <br>
 <br>
-Fibonacci
+Fibonacci.c
 <br>
-GCD,LCM
+GCD,LCM.c
+<br>
+simple_calculator.c
